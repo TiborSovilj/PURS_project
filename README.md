@@ -8,7 +8,8 @@ MPU 6050 gyro/acceletometer
 
 ## SW
 Custom written lib for MPU6050
-####### main: 
+
+###### main: 
   cycle through:
     - fingers bending
     - wrist rotation around forearm axis
