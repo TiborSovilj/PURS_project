@@ -13,4 +13,4 @@ Custom lib for MPU6050
   cycle through:
     - fingers bending
     - wrist rotation around forearm axis
-    - arm cartesian tanslation
+    - linear translation of the forearm
