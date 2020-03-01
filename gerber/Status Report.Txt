@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 19:03:52 On 1.2.2017.
+
+Output: NC Drill
+Type  : NC Drill
+From  : PCB Document [pcb_shema.CMPcbDoc]
+   Generated File[pcb_shema.TXT]
+   Generated File[pcb_shema.LDP]
+   Generated File[pcb_shema.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 19:03:52 On 1.2.2017.
