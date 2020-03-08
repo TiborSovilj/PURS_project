@@ -14,3 +14,5 @@ Custom lib for MPU6050
     - fingers bending
     - wrist rotation around forearm axis
     - linear translation of the forearm
+
+IDE: ide.mbed.com/compiler
