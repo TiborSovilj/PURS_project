@@ -1,9 +1,9 @@
 # Remote Handglove Project
 
 ## HW
-STM32 F746ZG Nucleo board
-custom PCB
-buttons for each finger - compatible with resistive Flex Sensors 
+STM32 F746ZG Nucleo board,
+custom PCB,
+buttons for each finger - compatible with resistive Flex Sensors,
 MPU 6050 gyro/acceletometer
 
 ## SW
